@@ -8,9 +8,9 @@ Hi! I'm transitioning into data analytics/data science.
 Analysis of Amazon food reviews to identify customer problems using NLP techniques.
 
 👉 [View project](./food-reviews-analysis)
+👉 [View project](./sales-data-analysis)
 
 ---
 
 More projects coming soon:
-- Sales analysis
 - Dashboard project

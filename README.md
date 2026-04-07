@@ -1,16 +1,35 @@
 # Data Analytics Portfolio
 
-Hi! I'm transitioning into data analytics/data science.
+Hi! I'm transitioning into data analytics/data science.  
+I focus on building practical projects using real datasets to develop analytical and business thinking.
+
+---
 
 ## 📊 Projects
 
-### Customer Review Analysis
-Analysis of Amazon food reviews to identify customer problems using NLP techniques.
+### 1. Customer Review Analysis (NLP)
+Analysis of Amazon food reviews to identify customer problems using text data.
+
+- Text preprocessing and cleaning
+- Word and bigram analysis
+- Identifying key drivers of customer dissatisfaction
 
 👉 [View project](./food-reviews-analysis)
+
+---
+
+### 2. Sales Data Analysis (Business Analysis)
+Analysis of retail sales data to understand profitability and business performance.
+
+- Sales vs Profit analysis
+- Category and sub-category performance
+- Profit margin analysis
+- Discount impact on profitability
+
 👉 [View project](./sales-data-analysis)
 
 ---
 
-More projects coming soon:
-- Dashboard project
+## 🚀 More coming soon
+- Dashboard project (Power BI)
+- Additional data analysis projects

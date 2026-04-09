@@ -1,3 +1,7 @@
+## 👋 About Me
+Aspiring Data Analyst with experience in Python, SQL, and Power BI.  
+Focused on solving real business problems using data.
+
 # Data Analytics Portfolio
 
 Hi! I'm transitioning into data analytics/data science.  
@@ -30,3 +34,7 @@ Includes a Power BI dashboard with key business insights.
 👉 [View project - Sales Data Analysis](./sales-data-analysis)
 
 ---
+
+## 🚀 Next Steps
+- SQL-based project (business queries)
+- Advanced dashboard with time analysis

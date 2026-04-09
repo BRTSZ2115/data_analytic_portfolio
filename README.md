@@ -14,7 +14,7 @@ Analysis of Amazon food reviews to identify customer problems using text data.
 - Word and bigram analysis
 - Identifying key drivers of customer dissatisfaction
 
-👉 [View project](./food-reviews-analysis)
+👉 [View project - Customer Review Analysis](./food-reviews-analysis)
 
 ---
 
@@ -26,7 +26,7 @@ Analysis of retail sales data to understand profitability and business performan
 - Profit margin analysis
 - Discount impact on profitability
 
-👉 [View project](./sales-data-analysis)
+👉 [View project - Sales Data Analysis](./sales-data-analysis)
 
 ---
 

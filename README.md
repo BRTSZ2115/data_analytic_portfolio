@@ -30,7 +30,3 @@ Includes a Power BI dashboard with key business insights.
 👉 [View project - Sales Data Analysis](./sales-data-analysis)
 
 ---
-
-## 🚀 More coming soon
-- Dashboard project (Power BI)
-- Additional data analysis projects

@@ -19,7 +19,8 @@ Analysis of Amazon food reviews to identify customer problems using text data.
 ---
 
 ### 2. Sales Data Analysis (Business Analysis)
-Analysis of retail sales data to understand profitability and business performance.
+Analysis of retail sales data to identify profit drivers and uncover loss-making products.
+Includes a Power BI dashboard with key business insights.
 
 - Sales vs Profit analysis
 - Category and sub-category performance

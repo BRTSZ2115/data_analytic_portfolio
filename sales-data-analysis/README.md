@@ -1,3 +1,4 @@
+![Dashboard](SuperStoreDashboard.png)
 # Sales Data Analysis – Business Performance
 
 ## 📌 Project Overview
